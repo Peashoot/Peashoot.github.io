@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/series/blog%E5%85%BB%E6%88%90%E8%AE%B0/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/categories/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/tags/hugo/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/p/my-first-post/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/posts/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/series/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/tags/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc>
+    <lastmod>2020-10-16T15:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.peashoot.xyz/categories/test/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Example Site</title>
+    <link>http://blog.peashoot.xyz/tags/hugo/</link>
+    <description>Recent content in hugo on Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 16 Oct 2020 15:07:43 +0800</lastBuildDate><atom:link href="http://blog.peashoot.xyz/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.peashoot.xyz/p/my-first-post/</link>
+      <pubDate>Fri, 16 Oct 2020 15:07:43 +0800</pubDate>
+      
+      <guid>http://blog.peashoot.xyz/p/my-first-post/</guid>
+      <description>单行代码段
+Console.Writeline(&amp;quot;多行代码段&amp;quot;); 一级标题（等号） 二级标题（减号） 正常 加粗 倾斜 粗体倾斜 删除线
+这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是五级标题 这是六级标题  这是引用的内容
+ 这是引用的内容
+        这是引用的内容
+          分割线
+ 分割线
+ 分割线
+ 分割线
+ 分割线
+超链接
+无序列表（无序列表用 - + * 任何一种都可以）
+ 列表内容   列表内容   列表内容  注意：- + * 跟内容之间都要有一个空格
+有序列表
+ 列表内容 列表内容 列表内容  注意：序号跟内容之间要有空格</description>
+    </item>
+    
+  </channel>
+</rss>

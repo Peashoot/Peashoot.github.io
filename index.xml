@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Example Site</title>
+        <link>http://blog.peashoot.xyz/</link>
+        <description>Recent content on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 16 Oct 2020 15:07:43 +0800</lastBuildDate><atom:link href="http://blog.peashoot.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>http://blog.peashoot.xyz/p/my-first-post/</link>
+        <pubDate>Fri, 16 Oct 2020 15:07:43 +0800</pubDate>
+        
+        <guid>http://blog.peashoot.xyz/p/my-first-post/</guid>
+        <description>&lt;p&gt;&lt;code&gt;单行代码段&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Console.Writeline(&amp;quot;多行代码段&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;一级标题等号&#34;&gt;一级标题（等号）&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题减号&#34;&gt;二级标题（减号）&lt;/h2&gt;
+&lt;p&gt;正常
+&lt;strong&gt;加粗&lt;/strong&gt;
+&lt;em&gt;倾斜&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;粗体倾斜&lt;/strong&gt;&lt;/em&gt;
+&lt;del&gt;删除线&lt;/del&gt;&lt;/p&gt;
+&lt;h1 id=&#34;这是一级标题&#34;&gt;这是一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;这是二级标题&#34;&gt;这是二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;这是三级标题&#34;&gt;这是三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;这是四级标题&#34;&gt;这是四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;这是五级标题&#34;&gt;这是五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;这是六级标题&#34;&gt;这是六级标题&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是引用的内容&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是引用的内容&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是引用的内容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.baidu.com/img/baidu_jgylogo3.gif&#34; alt=&#34;图片下面的文字&#34;  title=&#34;鼠标移到图片上时显示的内容&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.baidu.com/&#34;  title=&#34;百度&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;!-- raw HTML omitted --&gt;超链接&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;无序列表（无序列表用 - + * 任何一种都可以）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：- + * 跟内容之间都要有一个空格&lt;/p&gt;
+&lt;p&gt;有序列表&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;li&gt;列表内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意：序号跟内容之间要有空格&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 已勾选&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 未勾选&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;列表嵌套&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一级无序列表
+&lt;ul&gt;
+&lt;li&gt;二级无序列表&lt;/li&gt;
+&lt;li&gt;二级无序列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;一级无序列表
+&lt;ol&gt;
+&lt;li&gt;二级有序列表&lt;/li&gt;
+&lt;li&gt;二级有序列表&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;表格&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;姓名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;表情&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;排行&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;刘备&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;:-(&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;大哥&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;关羽&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;:-)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;二哥&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;张飞&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;:-O&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;三弟&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;;-(  ;-) B-) X-) :D &amp;gt;:( &amp;lt;/3 :/ :,( &amp;lt;3 ]:( o:) :&#39;) :-* :-| :@ ]:) :P ,:( ,:) :s  &lt;a class=&#34;link&#34; href=&#34;https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/shortcuts.js&#34;  title=&#34;emoji&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;emoji&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;流程图&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-flow&#34; data-lang=&#34;flow&#34;&gt;st=&amp;gt;start: 开始
+op=&amp;gt;operation: My Operation
+cond=&amp;gt;condition: Yes or No?
+e=&amp;gt;end
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;缩进&lt;/p&gt;
+&lt;p&gt;未缩进参照&lt;/p&gt;
+&lt;p&gt; 缩进1/4中文&lt;/p&gt;
+&lt;p&gt; 缩进1/4中文&lt;/p&gt;
+&lt;p&gt; 缩进半个中文&lt;/p&gt;
+&lt;p&gt; 缩进半个中文&lt;/p&gt;
+&lt;p&gt; 缩进一个中文&lt;/p&gt;
+&lt;p&gt; 缩进一个中文&lt;/p&gt;
+&lt;p&gt;特殊符号
+\ 反斜线
+* 星号
+_ 下划线
+{}[]()括号
+# 井号
++ 加号
+- 减号
+. 点
+! 惊叹号
+❤
+✓
+☀
+★
+☂
+☯
+☢
+☎
+∞
+❄
+♫&lt;/p&gt;
+&lt;p&gt;字体
+&lt;!-- raw HTML omitted --&gt;我是黑体字&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;我是微软雅黑&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;我是华文彩云&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;color=#09f size=2 face=&amp;ldquo;黑体&amp;rdquo;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;color=#0ff&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;color=gray&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;$\sqrt{x^{2}}$&lt;/p&gt;
+&lt;p&gt;使用 &lt;!-- raw HTML omitted --&gt;Ctrl&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Alt&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Del&lt;!-- raw HTML omitted --&gt; 重启电脑
+** 正常显示星号 **&lt;/p&gt;
+&lt;p&gt;$$
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} &amp;amp; \mathbf{j} &amp;amp; \mathbf{k} \&lt;br&gt;
+\frac{\partial X}{\partial u} &amp;amp;  \frac{\partial Y}{\partial u} &amp;amp; 0 \&lt;br&gt;
+\frac{\partial X}{\partial v} &amp;amp;  \frac{\partial Y}{\partial v} &amp;amp; 0 \&lt;br&gt;
+\end{vmatrix}
+$$&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
